@@ -1,0 +1,26 @@
+https://github.com/ComputoCienciasUniandes/MetodosComputacionalesLaboratorio
+
+
+
+Perseids Meteor Shower 2018                               https://www.youtube.com/watch?v=PEzdqmtHVQU
+
+Inspirados en la lluvia de meteritos visible en Bogotá del 8 al 15 de agosto/2018, compartiremos un resumen da algunas de las Constelaciones
+de nuestro Universo, usando github.
+
+
+                                                          https://www.random.org/ # estudiante
+                                                          https://www.mathgoodies.com/calculators/random_no_custom # parte del archivo
+
+
+Laboratorio:
+1. Resumir, en una línea (de al menos dos renglones), características de la constelación que le correspondió (incluyendo el nombre de la misma)
+2. Contribuir con una version diferente del archivo que vamos construyendo durante la clase
+3. Que baje el archivo de todo el curso (curso.txt)
+4. Crear en BASH un programa que haga lo siguiente
+   4.a Reciba el archivo curso.txt y una palabra (esta palabra es parte la contribución hecha)
+   4.b Imprima el numero total de filas en el archivo
+   4.c Imprima el tamaño del archivo
+   4.d Imprima el número del renglon de la contibucion hecha
+
+5. En sicua subir un archivo MINOMBRE.zip, que contenga la carpeta del laboratorio del día de hoy, incluyendo un archivo llamado "comando.txt"
+que continene la linea de comando para la ejecución del programa en BASH.
