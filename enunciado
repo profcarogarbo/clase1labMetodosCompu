@@ -15,7 +15,7 @@ de nuestro Universo, usando github.
 Laboratorio:
 1. Resumir, en una línea (de al menos dos renglones), características de la constelación que le correspondió (incluyendo el nombre de la misma)
 2. Contribuir con una version diferente del archivo que vamos construyendo durante la clase
-3. Que baje el archivo de todo el curso (curso.txt)
+3. Bajar el archivo de todo el curso (curso.txt)
 4. Crear en BASH un programa que haga lo siguiente
    4.a Reciba el archivo curso.txt y una palabra (esta palabra es parte la contribución hecha)
    4.b Imprima el numero total de filas en el archivo
